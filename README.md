@@ -80,7 +80,7 @@ B2: Chạy hàm main ở file VdtConsumer.java. Kết quả được trả ra đ
 
 - B1: Download Connector Plugin 
     - [JDBC Source Connector](https://www.confluent.io/hub/confluentinc/kafka-connect-jdbc)
-    - [File Source Connector](https://www.confluent.io/hub/jcustenborder/kafka-connect-spooldir)
+    - [File Source Connector](https://www.confluent.io/hub/confluentinc/kafka-connect-spooldir)
 
 - B2: Giải nén các connector vào thư mục connectors
 
